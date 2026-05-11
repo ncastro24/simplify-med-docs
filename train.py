@@ -229,16 +229,27 @@ def compute_metrics(eval_pred):
 # -------------------------
 training_args = TrainingArguments(
     output_dir=results_path,
-    per_device_train_batch_size=1, #reduced to 1 due to memory overload
-    gradient_accumulation_steps=1, # same as above
+
+    # -------------------------
+    # Memory-safe settings
+    # -------------------------
+    per_device_train_batch_size=1,
+    gradient_accumulation_steps=1,
     learning_rate=2e-4,
-    num_train_epochs=3,
+    num_train_epochs=1,
+
     weight_decay=0.01,
     warmup_ratio=0.03,
-    evaluation_strategy="no", ##from epoch to no due to memory
+
+    evaluation_strategy="no",   # keep OFF (good)
+    save_strategy="no",         # prevents memory spikes on Mac
+
+    # -------------------------
+    # Logging (reduce overhead slightly)
+    # -------------------------
     logging_dir=logs_path,
-    logging_steps=5,
-    save_strategy="epoch",
+    logging_steps=10,           # increase slightly
+
     fp16=False,
     report_to="none"
 )
