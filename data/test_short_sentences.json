@@ -1,0 +1,102 @@
+[
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient reports persistent dyspnea during mild exertion.",
+    "output": "The patient has ongoing shortness of breath during light activity."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Mild tachycardia was observed during examination.",
+    "output": "A slightly fast heart rate was noticed during the exam."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient demonstrates signs of dehydration.",
+    "output": "The patient shows signs of not having enough fluids."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient complains of persistent nausea.",
+    "output": "The patient often feels sick to their stomach."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Edema was noted in both lower extremities.",
+    "output": "Swelling was noticed in both legs."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Hyperglycemia was detected during laboratory testing.",
+    "output": "High blood sugar was found during lab testing."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient experienced syncope earlier this morning.",
+    "output": "The patient fainted earlier this morning."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient reports intermittent vertigo over the past week.",
+    "output": "The patient has occasional dizziness during the past week."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Clinical examination revealed erythema surrounding the incision site.",
+    "output": "The exam showed redness around the surgery cut."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient presents with acute cephalalgia and photophobia.",
+    "output": "The patient has a severe headache and sensitivity to light."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Pulmonary examination identified mild wheezing bilaterally.",
+    "output": "The lung exam found mild wheezing in both lungs."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient reports chronic insomnia associated with stress.",
+    "output": "The patient has long-term trouble sleeping related to stress."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Laboratory findings indicated elevated cholesterol levels.",
+    "output": "Lab results showed high cholesterol levels."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient denies experiencing abdominal pain or emesis.",
+    "output": "The patient says they do not have stomach pain or vomiting."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Radiographic imaging demonstrated a small pulmonary infiltrate.",
+    "output": "Imaging showed a small abnormal area in the lung."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient exhibits mild cognitive impairment.",
+    "output": "The patient has mild problems with memory or thinking."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient reports persistent lumbar discomfort.",
+    "output": "The patient has ongoing lower back pain."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient presents with acute pharyngitis and pyrexia.",
+    "output": "The patient has a sore throat infection and a fever."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient experienced intermittent palpitations overnight.",
+    "output": "The patient had occasional feelings of a racing or pounding heart overnight."
+    },
+    {
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Neurological examination was unremarkable.",
+    "output": "The nerve and brain exam appeared normal."
+    }
+]

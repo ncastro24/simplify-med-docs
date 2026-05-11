@@ -1,127 +1,117 @@
 [
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient exhibits hypertension.",
-    "output": "The patient has high blood pressure."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient reports persistent lumbar discomfort following prolonged physical activity.",
+    "output": "The patient has ongoing lower back pain after long periods of physical activity."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient presents with dyspnea.",
-    "output": "The patient has trouble breathing."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Clinical evaluation revealed mild dehydration and decreased oral intake.",
+    "output": "The exam showed mild dehydration and reduced eating or drinking."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient has elevated blood glucose levels.",
-    "output": "The patient has high blood sugar."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient demonstrates chronic arthralgia affecting both knees.",
+    "output": "The patient has long-term joint pain in both knees."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The individual is experiencing tachycardia.",
-    "output": "The person has a fast heart rate."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient complains of intermittent episodes of nausea and emesis.",
+    "output": "The patient has occasional nausea and vomiting."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient reports chronic fatigue.",
-    "output": "The patient feels tired for a long time."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Physical examination identified erythema surrounding the surgical incision.",
+    "output": "The exam showed redness around the surgical cut."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient has a benign tumor.",
-    "output": "The patient has a non-cancerous growth."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient presents with acute pharyngitis and mild pyrexia.",
+    "output": "The patient has a sore throat infection and a mild fever."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient is experiencing nausea and emesis.",
-    "output": "The patient feels sick and is vomiting."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Radiographic imaging demonstrated a minor fracture of the distal radius.",
+    "output": "Imaging showed a small fracture near the wrist bone."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient has hyperlipidemia.",
-    "output": "The patient has high fat levels in the blood."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient reports persistent fatigue and reduced appetite over the past month.",
+    "output": "The patient has ongoing tiredness and less appetite during the past month."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient shows signs of dehydration.",
-    "output": "The patient does not have enough fluids in their body."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "Laboratory findings indicated elevated cholesterol and triglyceride levels.",
+    "output": "Lab results showed high cholesterol and fat levels in the blood."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient has a fracture in the distal radius.",
-    "output": "The patient has a broken bone near the wrist."
+    "instruction": "Simplify the following medical sentence into plain English.",
+    "input": "The patient denies experiencing visual disturbances or hearing impairment.",
+    "output": "The patient says they do not have vision or hearing problems."
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient is experiencing acute abdominal pain.",
-    "output": "The patient has sudden stomach pain."
+    "instruction": "Simplify the following medical summary into plain English.",
+    "input": [
+      "The patient reports chronic lumbar pain worsening with movement.",
+      "Physical therapy was recommended during the consultation.",
+      "Pain medication was prescribed for symptom management."
+    ],
+    "output": [
+      "The patient has long-term lower back pain that gets worse with movement.",
+      "Physical therapy was recommended during the visit.",
+      "Pain medicine was prescribed to help manage symptoms."
+    ]
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient has a viral infection.",
-    "output": "The patient is sick from a virus."
+    "instruction": "Simplify the following medical summary into plain English.",
+    "input": [
+      "The patient presents with productive cough, mild pyrexia, and fatigue.",
+      "Pulmonary examination revealed decreased breath sounds.",
+      "Antibiotic treatment was initiated."
+    ],
+    "output": [
+      "The patient has a cough with mucus, a mild fever, and tiredness.",
+      "The lung exam showed reduced breathing sounds.",
+      "Antibiotic treatment was started."
+    ]
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient presents with mild edema.",
-    "output": "The patient has slight swelling."
+    "instruction": "Simplify the following medical summary into plain English.",
+    "input": [
+      "The patient experienced intermittent dizziness and blurred vision during ambulation.",
+      "Neurological assessment showed no acute abnormalities.",
+      "Hydration and rest were recommended."
+    ],
+    "output": [
+      "The patient sometimes felt dizzy and had blurry vision while walking.",
+      "The brain and nerve exam showed no serious problems.",
+      "The patient was advised to rest and drink fluids."
+    ]
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The individual is experiencing insomnia.",
-    "output": "The person has trouble sleeping."
+    "instruction": "Simplify the following medical summary into plain English.",
+    "input": [
+      "The patient has a history of asthma and seasonal allergies.",
+      "Mild wheezing was noted during respiratory examination.",
+      "An inhaler refill was provided."
+    ],
+    "output": [
+      "The patient has a history of asthma and seasonal allergies.",
+      "Mild wheezing was heard during the breathing exam.",
+      "A refill for the inhaler was given."
+    ]
   },
   {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient has a history of myocardial infarction.",
-    "output": "The patient had a heart attack in the past."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient is experiencing vertigo.",
-    "output": "The patient feels dizzy."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient presents with a persistent cough.",
-    "output": "The patient has a cough that does not go away."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient has a bacterial infection.",
-    "output": "The patient is sick from bacteria."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient is experiencing joint inflammation.",
-    "output": "The patient has swelling in the joints."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient has anemia.",
-    "output": "The patient has low red blood cells."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient exhibits symptoms of hypoglycemia.",
-    "output": "The patient has low blood sugar symptoms."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The patient has a pulmonary infection.",
-    "output": "The patient has a lung infection."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient reports experiencing migraines.",
-    "output": "The patient has severe headaches."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "The individual has dermatitis.",
-    "output": "The person has skin irritation."
-  },
-  {
-    "instruction": "Simplify the following medical sentence.",
-    "input": "Patient presents with blurred vision.",
-    "output": "The patient cannot see clearly."
+    "instruction": "Simplify the following medical summary into plain English.",
+    "input": [
+      "The patient reports persistent insomnia associated with occupational stress.",
+      "Sleep hygiene strategies were reviewed during the visit.",
+      "Follow-up evaluation was scheduled in six weeks."
+    ],
+    "output": [
+      "The patient has ongoing trouble sleeping related to work stress.",
+      "Ways to improve sleep habits were discussed during the visit.",
+      "Another appointment was scheduled in six weeks."
+    ]
   }
 ]

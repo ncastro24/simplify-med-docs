@@ -1,12 +1,17 @@
-# Core ML and NLP
 torch==2.4.0
 transformers==4.37.2
 tokenizers==0.15.2
 peft==0.8.2
 datasets==4.8.4
 
-# Utilities
 numpy==1.26.4
+pandas==2.3.3
+matplotlib==3.10.7
+
+evaluate==0.4.6
+rouge_score==0.1.2
+sacrebleu==2.5.1
+
 safetensors==0.7.0
 tqdm==4.67.3
 requests==2.33.0
