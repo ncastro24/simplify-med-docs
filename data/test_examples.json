@@ -1,0 +1,42 @@
+[
+    {
+        "instruction": "Simplify the following medical sentence into plain English.",
+        "input": "The patient reports intermittent episodes of vertigo accompanied by nausea.",
+        "output": "The patient sometimes feels dizzy and sick to their stomach."
+    },
+    {
+        "instruction": "Simplify the following medical sentence into plain English.",
+        "input": "Physical examination demonstrated mild erythema surrounding the incision site.",
+        "output": "The exam showed mild redness around the surgery cut."
+    },
+    {
+        "instruction": "Simplify the following medical sentence into plain English.",
+        "input": "The patient was advised to discontinue tobacco use due to worsening pulmonary function.",
+        "output": "The patient was told to stop smoking because their lung function is getting worse."
+    },
+    {
+        "instruction": "Simplify the following medical summary into plain English.",
+        "input": "The patient presents with persistent cephalalgia and photophobia. Neurological examination revealed no focal deficits. Hydration and rest were recommended.",
+        "output": "The patient has ongoing headaches and sensitivity to light. The nerve and brain exam did not show any major problems. The patient was told to rest and drink fluids."
+    },
+    {
+        "instruction": "Simplify the following medical summary into plain English.",
+        "input": "The patient reports dyspnea during moderate physical exertion. Cardiac auscultation revealed an irregular rhythm. Further cardiovascular evaluation was scheduled.",
+        "output": "The patient has shortness of breath during moderate activity. The heart exam showed an irregular heartbeat. More heart testing was scheduled."
+    },
+    {
+        "instruction": "Simplify the following medical summary into plain English.",
+        "input": "Laboratory testing demonstrated elevated serum glucose levels. The patient was counseled regarding dietary modifications. Follow-up testing was recommended in three months.",
+        "output": "Lab tests showed high blood sugar levels. The patient was advised to make changes to their diet. More testing was recommended in three months."
+    },
+    {
+        "instruction": "Simplify the following medical summary into plain English.",
+        "input": "The patient experienced generalized fatigue and myalgia following viral infection. Vital signs remained stable throughout evaluation. Supportive care was recommended.",
+        "output": "The patient felt very tired and had muscle pain after a viral infection. The patient's vital signs stayed stable during the evaluation. Rest and basic care were recommended."
+    },
+    {
+        "instruction": "Simplify the following medical summary into plain English.",
+        "input": "Radiographic imaging revealed no acute osseous abnormalities. The patient continues to report lumbar discomfort during ambulation. Physical therapy referral was provided.",
+        "output": "Imaging did not show any serious bone injuries. The patient still has lower back pain while walking. A referral for physical therapy was given."
+    }
+]

@@ -1,132 +1,52 @@
 [
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "The patient reports intermittent dyspnea and fatigue.",
-            "Physical examination revealed mild tachycardia.",
-            "The patient denies chest pain."
-        ],
-        "output": [
-            "The patient sometimes has shortness of breath and feels tired.",
-            "The exam showed a slightly fast heart rate.",
-            "The patient says they do not have chest pain."
-        ]
+        "input": "The patient reports intermittent dyspnea and fatigue. Physical examination revealed mild tachycardia. The patient denies chest pain.",
+        "output": "The patient sometimes has shortness of breath and feels tired. The exam showed a slightly fast heart rate. The patient says they do not have chest pain."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "Patient presents with persistent nausea and abdominal discomfort.",
-            "Laboratory testing revealed mild dehydration.",
-            "Intravenous fluids were administered."
-        ],
-        "output": [
-            "The patient feels sick to their stomach and has stomach discomfort.",
-            "Lab tests showed mild dehydration.",
-            "Fluids were given through an IV."
-        ]
+        "input": "Patient presents with persistent nausea and abdominal discomfort. Laboratory testing revealed mild dehydration. Intravenous fluids were administered.",
+        "output": "The patient feels sick to their stomach and has stomach discomfort. Lab tests showed mild dehydration. Fluids were given through an IV."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "The patient has a history of hypertension and hyperlipidemia.",
-            "Blood pressure remained elevated during the visit.",
-            "Medication compliance was discussed."
-        ],
-        "output": [
-            "The patient has a history of high blood pressure and high cholesterol.",
-            "The patient's blood pressure stayed high during the visit.",
-            "The doctor discussed taking medications regularly."
-        ]
+        "input": "The patient has a history of hypertension and hyperlipidemia. Blood pressure remained elevated during the visit. Medication compliance was discussed.",
+        "output": "The patient has a history of high blood pressure and high cholesterol. The patient's blood pressure stayed high during the visit. The doctor discussed taking medications regularly."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "The patient experienced syncope while standing.",
-            "Vital signs were stable upon arrival.",
-            "Further cardiac evaluation was recommended."
-        ],
-        "output": [
-            "The patient fainted while standing.",
-            "The patient's vital signs were stable when arriving.",
-            "More heart testing was recommended."
-        ]
+        "input": "The patient experienced syncope while standing. Vital signs were stable upon arrival. Further cardiac evaluation was recommended.",
+        "output": "The patient fainted while standing. The patient's vital signs were stable when arriving. More heart testing was recommended."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "Patient demonstrates edema in bilateral lower extremities.",
-            "Renal function tests were ordered.",
-            "The patient was advised to reduce sodium intake."
-        ],
-        "output": [
-            "The patient has swelling in both legs.",
-            "Kidney function tests were ordered.",
-            "The patient was told to eat less salt."
-        ]
+        "input": "Patient demonstrates edema in bilateral lower extremities. Renal function tests were ordered. The patient was advised to reduce sodium intake.",
+        "output": "The patient has swelling in both legs. Kidney function tests were ordered. The patient was told to eat less salt."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "The patient reports worsening insomnia and anxiety related to occupational stress.",
-            "Sleep hygiene techniques were reviewed during the consultation.",
-            "Follow-up evaluation was scheduled for next month."
-        ],
-        "output": [
-            "The patient has worsening trouble sleeping and anxiety related to work stress.",
-            "Ways to improve sleep habits were discussed during the visit.",
-            "Another appointment was scheduled for next month."
-        ]
+        "input": "The patient reports worsening insomnia and anxiety related to occupational stress. Sleep hygiene techniques were reviewed during the consultation. Follow-up evaluation was scheduled for next month.",
+        "output": "The patient has worsening trouble sleeping and anxiety related to work stress. Ways to improve sleep habits were discussed during the visit. Another appointment was scheduled for next month."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "The patient presents with productive cough, pyrexia, and generalized fatigue.",
-            "Pulmonary examination revealed decreased breath sounds.",
-            "Antibiotic treatment was initiated."
-        ],
-        "output": [
-            "The patient has a cough with mucus, fever, and overall tiredness.",
-            "The lung exam showed reduced breathing sounds.",
-            "Antibiotic treatment was started."
-        ]
+        "input": "The patient presents with productive cough, pyrexia, and generalized fatigue. Pulmonary examination revealed decreased breath sounds. Antibiotic treatment was initiated.",
+        "output": "The patient has a cough with mucus, fever, and overall tiredness. The lung exam showed reduced breathing sounds. Antibiotic treatment was started."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "The patient reports intermittent dizziness and blurred vision during ambulation.",
-            "Neurological examination was unremarkable.",
-            "Hydration and rest were recommended."
-        ],
-        "output": [
-            "The patient sometimes feels dizzy and has blurry vision while walking.",
-            "The brain and nerve exam appeared normal.",
-            "The patient was told to rest and drink more fluids."
-        ]
+        "input": "The patient reports intermittent dizziness and blurred vision during ambulation. Neurological examination was unremarkable. Hydration and rest were recommended.",
+        "output": "The patient sometimes feels dizzy and has blurry vision while walking. The brain and nerve exam appeared normal. The patient was told to rest and drink more fluids."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "The patient has a history of asthma and seasonal allergies.",
-            "Mild wheezing was observed during respiratory examination.",
-            "An inhaler refill was prescribed."
-        ],
-        "output": [
-            "The patient has a history of asthma and seasonal allergies.",
-            "Mild wheezing was noticed during the breathing exam.",
-            "A refill for the inhaler was prescribed."
-        ]
+        "input": "The patient has a history of asthma and seasonal allergies. Mild wheezing was observed during respiratory examination. An inhaler refill was prescribed.",
+        "output": "The patient has a history of asthma and seasonal allergies. Mild wheezing was noticed during the breathing exam. A refill for the inhaler was prescribed."
     },
     {
         "instruction": "Simplify the following medical summary into plain English.",
-        "input": [
-            "The patient experienced persistent lumbar pain following a workplace injury.",
-            "Radiographic imaging demonstrated no acute fracture.",
-            "Physical therapy was recommended."
-        ],
-        "output": [
-            "The patient has ongoing lower back pain after a workplace injury.",
-            "Imaging showed no serious fracture.",
-            "Physical therapy was recommended."
-        ]
+        "input": "The patient experienced persistent lumbar pain following a workplace injury. Radiographic imaging demonstrated no acute fracture. Physical therapy was recommended.",
+        "output": "The patient has ongoing lower back pain after a workplace injury. Imaging showed no serious fracture. Physical therapy was recommended."
     }
 ]

@@ -51,67 +51,27 @@
   },
   {
     "instruction": "Simplify the following medical summary into plain English.",
-    "input": [
-      "The patient reports chronic lumbar pain worsening with movement.",
-      "Physical therapy was recommended during the consultation.",
-      "Pain medication was prescribed for symptom management."
-    ],
-    "output": [
-      "The patient has long-term lower back pain that gets worse with movement.",
-      "Physical therapy was recommended during the visit.",
-      "Pain medicine was prescribed to help manage symptoms."
-    ]
+    "input": "The patient reports chronic lumbar pain worsening with movement. Physical therapy was recommended during the consultation. Pain medication was prescribed for symptom management.",
+    "output": "The patient has long-term lower back pain that gets worse with movement. Physical therapy was recommended during the visit. Pain medicine was prescribed to help manage symptoms."
   },
   {
     "instruction": "Simplify the following medical summary into plain English.",
-    "input": [
-      "The patient presents with productive cough, mild pyrexia, and fatigue.",
-      "Pulmonary examination revealed decreased breath sounds.",
-      "Antibiotic treatment was initiated."
-    ],
-    "output": [
-      "The patient has a cough with mucus, a mild fever, and tiredness.",
-      "The lung exam showed reduced breathing sounds.",
-      "Antibiotic treatment was started."
-    ]
+    "input": "The patient presents with productive cough, mild pyrexia, and fatigue. Pulmonary examination revealed decreased breath sounds. Antibiotic treatment was initiated.",
+    "output": "The patient has a cough with mucus, a mild fever, and tiredness. The lung exam showed reduced breathing sounds. Antibiotic treatment was started."
   },
   {
     "instruction": "Simplify the following medical summary into plain English.",
-    "input": [
-      "The patient experienced intermittent dizziness and blurred vision during ambulation.",
-      "Neurological assessment showed no acute abnormalities.",
-      "Hydration and rest were recommended."
-    ],
-    "output": [
-      "The patient sometimes felt dizzy and had blurry vision while walking.",
-      "The brain and nerve exam showed no serious problems.",
-      "The patient was advised to rest and drink fluids."
-    ]
+    "input": "The patient experienced intermittent dizziness and blurred vision during ambulation. Neurological assessment showed no acute abnormalities. Hydration and rest were recommended.",
+    "output": "The patient sometimes felt dizzy and had blurry vision while walking. The brain and nerve exam showed no serious problems. The patient was advised to rest and drink fluids."
   },
   {
     "instruction": "Simplify the following medical summary into plain English.",
-    "input": [
-      "The patient has a history of asthma and seasonal allergies.",
-      "Mild wheezing was noted during respiratory examination.",
-      "An inhaler refill was provided."
-    ],
-    "output": [
-      "The patient has a history of asthma and seasonal allergies.",
-      "Mild wheezing was heard during the breathing exam.",
-      "A refill for the inhaler was given."
-    ]
+    "input": "The patient has a history of asthma and seasonal allergies. Mild wheezing was noted during respiratory examination. An inhaler refill was provided.",
+    "output": "The patient has a history of asthma and seasonal allergies. Mild wheezing was heard during the breathing exam. A refill for the inhaler was given."
   },
   {
     "instruction": "Simplify the following medical summary into plain English.",
-    "input": [
-      "The patient reports persistent insomnia associated with occupational stress.",
-      "Sleep hygiene strategies were reviewed during the visit.",
-      "Follow-up evaluation was scheduled in six weeks."
-    ],
-    "output": [
-      "The patient has ongoing trouble sleeping related to work stress.",
-      "Ways to improve sleep habits were discussed during the visit.",
-      "Another appointment was scheduled in six weeks."
-    ]
+    "input": "The patient reports persistent insomnia associated with occupational stress. Sleep hygiene strategies were reviewed during the visit. Follow-up evaluation was scheduled in six weeks.",
+    "output": "The patient has ongoing trouble sleeping related to work stress. Ways to improve sleep habits were discussed during the visit. Another appointment was scheduled in six weeks."
   }
 ]
